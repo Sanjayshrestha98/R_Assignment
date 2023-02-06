@@ -1,0 +1,2 @@
+"0","dis_X4=density(X[,""X4""])"
+"0","hist(X[,""X4""],freq = FALSE,main = ""Histogram and density plot of X4"",xlab = ""X4 Signal"", col = ""coral"")"

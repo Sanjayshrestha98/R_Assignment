@@ -1,0 +1,2 @@
+"0","Y.ts<-ts(Y,start = c(min(Time),max(Time)),frequency =1)"
+"0",""

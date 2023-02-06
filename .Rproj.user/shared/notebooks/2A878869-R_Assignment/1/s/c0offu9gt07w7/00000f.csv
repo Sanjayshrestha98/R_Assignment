@@ -1,0 +1,7 @@
+"0","likehood_Model_2="
+"0","-(N/2)*(log(2*pi))-(N/2)*(log(Variance_model2))-(1/(2*Variance_model2))*RSS_Model_2"
+"0","likehood_Model_2"
+"1","[1]"
+"1"," -369.1351"
+"1","
+"

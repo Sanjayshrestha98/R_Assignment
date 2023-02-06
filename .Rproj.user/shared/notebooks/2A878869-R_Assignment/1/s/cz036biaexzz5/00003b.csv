@@ -1,0 +1,1 @@
+"0","plot(X.ts,main = ""Time series plot of X Signal"", xlab = ""Time"", ylab = ""Input signal"", col=""darkviolet"")"

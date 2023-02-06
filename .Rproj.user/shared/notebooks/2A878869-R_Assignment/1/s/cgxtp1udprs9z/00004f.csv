@@ -1,0 +1,3 @@
+"0","#Creating a density if X3 signal"
+"0","dis_X3=density(X[,""X3""])"
+"0","hist(X[,""X3""],freq = FALSE,main = ""Histogram and density plot of X3"",xlab = ""X3 Signal"" , col=""coral"")"

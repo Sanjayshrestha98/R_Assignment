@@ -1,0 +1,3 @@
+"0","# Plotting X4 against Y"
+"0","plot(X[,""X4""],Y,main = ""Correlation betweeen X4 and Y signal"", xlab = ""X4 signal"", ylab = ""Output"
+"0","signal"",pch = 20,  col=colors[factor(group)])"

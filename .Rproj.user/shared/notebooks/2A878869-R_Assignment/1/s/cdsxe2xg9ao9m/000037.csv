@@ -1,0 +1,2 @@
+"0","dis_y=density(Y)"
+"0","plot(dis_y,main = ""Density plot of Y"",,xlab = ""Output Signal"", col=""darkblue"")"

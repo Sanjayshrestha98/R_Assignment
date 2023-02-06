@@ -1,0 +1,3 @@
+"0","Time = read.csv(""C:/Users/sanja/Downloads/time_1673241270748.csv"", header = F, skip = 1)"
+"0","Time = as.matrix(rbind(0, Time))"
+"0",""

@@ -1,0 +1,2 @@
+"0","# Creating a Histrogram of X signal"
+"0","hist(X,freq = FALSE,main = ""Density Histogram"", col = ""coral"")"
